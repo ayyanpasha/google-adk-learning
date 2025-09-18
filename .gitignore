@@ -1,0 +1,135 @@
+# Ignore all .env files in any directory
+**/.env
+
+# Operating System files
+##########################
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDEs and Editors
+##################
+# VS Code
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# TextMate
+.tmproj
+
+# NetBeans
+nbproject/
+
+# Log files
+############
+*.log
+
+# Node.js
+############
+node_modules/
+
+# Package distribution
+########################
+dist/
+build/
+tmp/
+out/
+
+# Python
+########
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Java
+#######
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Ruby
+######
+*.gem
+*.rbc
+.bundle/
+.config/
+db/*.sqlite3
+log/
+tmp/
+
+# .NET
+######
+bin/
+obj/
+.vs/
+
+# Go
+####
+bin/
+pkg/
+
+# PHP
+####
+vendor/
+
+# Environment Files
+###################
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Docker
+########
+*.log
+docker-compose.override.yml
+.docker/
+
+# Vagrant
+##########
+.vagrant/
+
+# Miscellaneous
+################
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# JetBrains IDE (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+
+# OS generated files
+###################
+.DS_Store
+Thumbs.db
+
+# MacOS Finder directory settings
+###############################
+.AppleDouble
+.LSOverride
+
+# Linux specific files
+######################
+.directory
