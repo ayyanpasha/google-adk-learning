@@ -133,3 +133,6 @@ Thumbs.db
 # Linux specific files
 ######################
 .directory
+
+
+venv/
